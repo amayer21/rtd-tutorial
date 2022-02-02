@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'GIGA mass storage & cluster'
+copyright = '2022, GIGA Bioinformatics Team'
+author = 'Alice'
 
 release = '0.1'
 version = '0.1.0'
