@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "GIGA mass storage & cluster"
+authors = [{name = "GIGA Bioinformatic Team", email = "bioinfo.giga@uliege.be"}]
 dynamic = ["version", "description"]
